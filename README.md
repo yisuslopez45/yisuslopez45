@@ -22,4 +22,4 @@ Hola, yo soy [Jesus David Lopez](https://hebertdev.tk/), un Desarrollador Backen
 
 _Personal_
 
-- :star::blush:  **[Linkedin](https://twitter.com/hebertdev1)** :v:
+- :star::blush:  **[Linkedin](https://www.linkedin.com/in/jes%C3%BAs-david-betancourth-lopez-1165b9229/)** :v:
