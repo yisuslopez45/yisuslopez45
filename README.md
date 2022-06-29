@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
+Hola, yo soy [Jesus David Lopez](https://hebertdev.tk/), un Desarrollador Backend 🚀 de Colombia , tengo experiencia en la creacion de software en el lado del servidor con tecnologias como  NodeJS con el Framework de Express.
 <br />
 <br />
 
@@ -30,8 +30,4 @@ Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀
 
 _Personal_
 
-- :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-- :star::blush: Mi sitio web **[Works](https://hebertdev.space)** :v:
-- :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/hebertdev1)** :v:
-- :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/hebertdev1)** :v:
 - :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/hebertdev1)** :v:
