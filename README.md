@@ -9,7 +9,7 @@
 
 <br />
 
- Hola, yo soy [Jesus David Lopez](), un Desarrollador Backend 🚀 de Colombia , tengo experiencia en la creacion de software en el lado del servidor con tecnologias como  NodeJS con el Framework de Express.
+ Hola, yo soy [Jesus David Lopez](https://github.com/yisuslopez45), un Desarrollador Backend 🚀 de Colombia , tengo experiencia en la creacion de software en el lado del servidor con tecnologias como  NodeJS con el Framework de Express.
 <br />
 <br />
 
